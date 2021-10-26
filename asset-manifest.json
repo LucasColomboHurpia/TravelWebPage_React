@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LucasColomboHurpia/TravelWebPage_React.git/static/css/main.ec9d9609.chunk.css",
+    "main.js": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/main.55573679.chunk.js",
+    "main.js.map": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/main.55573679.chunk.js.map",
+    "runtime-main.js": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/runtime-main.2e7ba108.js",
+    "runtime-main.js.map": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/runtime-main.2e7ba108.js.map",
+    "static/js/2.174f8ffb.chunk.js": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/2.174f8ffb.chunk.js",
+    "static/js/2.174f8ffb.chunk.js.map": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/2.174f8ffb.chunk.js.map",
+    "index.html": "/LucasColomboHurpia/TravelWebPage_React.git/index.html",
+    "static/css/main.ec9d9609.chunk.css.map": "/LucasColomboHurpia/TravelWebPage_React.git/static/css/main.ec9d9609.chunk.css.map",
+    "static/js/2.174f8ffb.chunk.js.LICENSE.txt": "/LucasColomboHurpia/TravelWebPage_React.git/static/js/2.174f8ffb.chunk.js.LICENSE.txt",
+    "static/media/SignUp.css": "/LucasColomboHurpia/TravelWebPage_React.git/static/media/img-1.53f48437.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e7ba108.js",
+    "static/js/2.174f8ffb.chunk.js",
+    "static/css/main.ec9d9609.chunk.css",
+    "static/js/main.55573679.chunk.js"
+  ]
+}
